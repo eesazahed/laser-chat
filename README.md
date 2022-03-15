@@ -10,5 +10,6 @@ To finally run it, type in the terminal of your project's directory `npm start`.
 
 Your chat server is online and anyone with your API keys in the `firebaseConfig` object can edit your database. For more information about Firebase security, please read more about this at [https://firebase.google.com/docs/projects/api-keys](https://firebase.google.com/docs/projects/api-keys).
 
-![image1](https://user-images.githubusercontent.com/97064249/158486163-61898c94-eb2e-4660-b017-3c16713857ba.png)
-![Screen Shot 2022-03-15 at 5 56 07 PM](https://user-images.githubusercontent.com/97064249/158486167-e7c845c2-3807-4141-ada4-aefbfcd69757.png)
+![image1](https://user-images.githubusercontent.com/97064249/158486167-e7c845c2-3807-4141-ada4-aefbfcd69757.png)
+![image2](https://user-images.githubusercontent.com/97064249/158486163-61898c94-eb2e-4660-b017-3c16713857ba.png)
+
