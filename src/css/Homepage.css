@@ -1,0 +1,87 @@
+.homepage {
+  background-color: white;
+  padding: 5%;
+  margin: 5%;
+  border-radius: 10px;
+  border: 1px solid;
+}
+
+.darkmode {
+  background-color: #151515;
+  color: white;
+}
+
+.homepage button,
+.homepage input {
+  background-color: white;
+  border-radius: 10px;
+  border: 1px solid;
+  padding: 1%;
+  margin: 1%;
+  height: 100%;
+  transition: 0.5s;
+}
+
+.homepage button:hover,
+.homepage input:hover {
+  background-color: black;
+  color: white;
+}
+
+.homepage input {
+  width: 80%;
+}
+
+.homepage-title {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.homepage-title button {
+  margin-left: 3%;
+}
+
+.postfeed {
+  font-size: smaller;
+  max-height: 50vh;
+  border: 1px solid;
+  padding: 3%;
+  margin: 3%;
+  overflow-y: scroll;
+  overflow: auto;
+  display: flex;
+  flex-direction: column-reverse;
+  scroll-behavior: smooth;
+}
+
+.postform {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.usernameDisplay {
+  display: flex;
+  align-items: center;
+}
+
+.usernameDisplay span {
+  margin-left: 1%;
+}
+
+.timeDisplay {
+  font-size: 0.6rem;
+  color: grey;
+}
+
+#down-button {
+  position: absolute;
+  right: 14vw;
+  z-index: 99;
+  color: grey;
+}
+
+#down-button i {
+  font-size: 1.35rem;
+}
