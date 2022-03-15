@@ -2,7 +2,7 @@
 
 A chat app made with ReactJS and Google Firebase.
 
-To host your own chat server, first open the terminal and type in `git clone https://github.com/EesaZahed/laser-chat.git` Next, type `cd react-simple-messaging` and `npm i react` in the terminal.
+To host your own chat server, first open the terminal and type in `git clone https://github.com/EesaZahed/laser-chat.git` Next, type `cd laser-chat` and `npm i react` in the terminal.
 
 Next, create a Google Firebase web project at https://console.firebase.google.com/, and enable a realtime database (in test mode), and also add a method for user authentication with an email address and password. Once you create your project, go to your project settings, and copy the `firebaseConfig` object, and paste it in `src/firebase/config.js`.
 
