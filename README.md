@@ -12,7 +12,7 @@ Your chat server is online and anyone with your API keys in the `firebaseConfig`
 
 For your database rules, use the following:
 
-`
+```
 {
   "rules": {
     "users": {
@@ -27,7 +27,7 @@ For your database rules, use the following:
     }
   }
 }
-`
+```
 
 ![image1](https://user-images.githubusercontent.com/97064249/158486167-e7c845c2-3807-4141-ada4-aefbfcd69757.png)
 ![image2](https://user-images.githubusercontent.com/97064249/158486163-61898c94-eb2e-4660-b017-3c16713857ba.png)
