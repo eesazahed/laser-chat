@@ -1,5 +1,7 @@
 # Laser Chat
 
+# Laser Chat 2.0.1 [https://github.com/EesaZahed/laser-chat-2.0](https://github.com/EesaZahed/laser-chat-2.0) is out with many more features.
+
 A chat app made with ReactJS and Google Firebase.
 
 To host your own chat server, first open the terminal and type in `git clone https://github.com/EesaZahed/laser-chat.git` Next, type `cd laser-chat` and `npm i react` in the terminal.
