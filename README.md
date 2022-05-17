@@ -1,6 +1,6 @@
 # Laser Chat
 
-# Laser Chat 2.0.1 [https://github.com/EesaZahed/laser-chat-2.0](https://github.com/EesaZahed/laser-chat-2.0) is out with many more features.
+# [Laser Chat 2.0.1](https://github.com/EesaZahed/laser-chat-2.0) is out with many more features.
 
 A chat app made with ReactJS and Google Firebase.
 
